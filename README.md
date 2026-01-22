@@ -13,7 +13,7 @@ A web-based Tic-Tac-Toe game built with Java Spring Boot, featuring a modern and
 
 ## Prerequisites
 
-- Java 17 or higher
+- Java 8 or higher
 - Maven 3.6 or higher
 
 ## Project Structure
@@ -104,10 +104,10 @@ The game exposes the following REST API endpoints:
 
 ## Technologies Used
 
-- **Backend:** Spring Boot 3.2.0
+- **Backend:** Spring Boot 2.7.18
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 - **Build Tool:** Maven
-- **Java Version:** 17
+- **Java Version:** 8 (1.8)
 
 ## License
 
